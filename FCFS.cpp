@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "How many processes? ";
+    cout <<"How many processes ?";
     cin >> n;
 
     string pname[n];
